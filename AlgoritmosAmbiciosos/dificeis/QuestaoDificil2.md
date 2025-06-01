@@ -1,19 +1,13 @@
-## BFS: Shortest Reach in a Graph
+## Chief Hopper
 
-https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem
+https://www.hackerrank.com/challenges/chief-hopper/problem?isFullScreen=false
 
 # Nível da questão: <span style="color: red;">Difícil</span>
 
 ## Resultados do juiz eletrônico
 
-![](/Assets/QuestaoDificil1_case0_1.png)
+![](/Assets/QuestaoDificil2_case0_1.png)
 
-![](/Assets/QuestaoDificil1_case0_2.png)
+![](/Assets/QuestaoDificil2_case1_1.png)
 
-![](/Assets/QuestaoDificil1_case1_1.png)
-
-![](/Assets/QuestaoDificil1_case1_2.png)
-
-![](/Assets/QuestaoDificil1_case2_1.png)
-
-![](/Assets/QuestaoDificil1_case2_2.png)
+![](/Assets/QuestaoDificil2_case2_1.png)

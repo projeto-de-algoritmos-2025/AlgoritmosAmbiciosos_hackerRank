@@ -113,7 +113,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão difícil HackerRank Task Scheduling</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão difícil Task Scheduling</b></p></font>
 </div>
 
 <div align="center">
@@ -122,7 +122,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão difícil HackerRank Task Scheduling</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão difícil Task Scheduling</b></p></font>
 </div>
 
 <div align="center">
@@ -131,53 +131,30 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Resultados questão difícil HackerRank MST</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 6: Resultados questão difícil Chief Hopper</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/mst/m1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil2_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil HackerRank Floyd</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 7: Resultados questão difícil Chief Hopper</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/floyd/f1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil2_case1_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil HackerRank Floyd</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 8: Resultados questão difícil Chief Hopper</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/floyd/f2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 9: Resultados questão difícil HackerRank Floyd</b></p></font>
+<img src="Assets/QuestaoDificil2_case2_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 
-<div align="center">
-<img src="Assets/floyd/f3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 10: Resultados questão difícil HackerRank Floyd</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/floyd/f4.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 11: Resultados questão difícil HackerRank Floyd</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/floyd/f5.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
 
 ## Vídeo
 
