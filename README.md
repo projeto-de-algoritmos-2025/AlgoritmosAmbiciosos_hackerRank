@@ -30,7 +30,7 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
             <td>Difícil 01</td>
         </tr>
         <tr>
-            <td><a href="https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem?isFullScreen=true" target="_blank">Floyd City of Blinding Lights</td>
+            <td><a href="https://www.hackerrank.com/challenges/chief-hopper/problem?isFullScreen=false" target="_blank">Chief Hopper</td>
             <td>Difícil 02</td>
         </tr>
     </tbody>
