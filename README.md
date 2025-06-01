@@ -90,29 +90,29 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 ## Screenshots do HackerRank
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 1: Resultados questão média Interval Selection</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoDificil1_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
-</div>
-<div align="center">
-
-<div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
-</div>
-
-<div align="center">
-<img src="Assets/QuestaoDificil1_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoMedia1_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão difícil HackerRank Shortest Reach 2</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 2: Resultados questão média Interval Selection</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoDificil1_case1_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoMedia1_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+</div>
+<div align="center">
+
+<div align="center">
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 3: Resultados questão média Interval Selection</b></p></font>
+</div>
+
+<div align="center">
+<img src="Assets/QuestaoMedia1_case0_3.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
