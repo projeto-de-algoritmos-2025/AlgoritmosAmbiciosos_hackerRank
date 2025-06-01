@@ -22,7 +22,7 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://www.hackerrank.com/challenges/primsmstsub/problem" target="_blank">Prim's (MST) : Special Subtree</td>
+            <td><a href="https://www.hackerrank.com/challenges/interval-selection/problem" target="_blank">Interval Selection</td>
             <td>Médio 01</td>
         </tr>
         <tr>
