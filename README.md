@@ -1,6 +1,6 @@
-# GRAFOS 02 - HACKERRANK PROBLEM
+# ALGORITMOS AMBICIOSOS - HACKERRANK PROBLEM
 
-**Conteúdo da Disciplina**: Grafos 02
+**Conteúdo da Disciplina**: Algoritmos ambiciosos
 
 ## Sobre
 
