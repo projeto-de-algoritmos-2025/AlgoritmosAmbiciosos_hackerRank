@@ -113,7 +113,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão alta HackerRank Task Scheduling</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão difícil HackerRank Task Scheduling</b></p></font>
 </div>
 
 <div align="center">
@@ -122,7 +122,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão alta HackerRank Task Scheduling</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão difícil HackerRank Task Scheduling</b></p></font>
 </div>
 
 <div align="center">
