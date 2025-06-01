@@ -117,7 +117,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoDificil1_case0_1" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil1_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
@@ -126,7 +126,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoDificil1_case0_2" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil1_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
