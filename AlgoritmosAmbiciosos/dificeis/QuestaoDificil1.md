@@ -1,6 +1,6 @@
-## Dijkstra: Shortest Reach 2
+## Task Scheduling
 
-https://www.hackerrank.com/challenges/dijkstrashortreach/problem
+https://www.hackerrank.com/challenges/task-scheduling/problem
 
 # Nível da questão: <span style="color: red;">Difícil</span>
 
@@ -9,5 +9,3 @@ https://www.hackerrank.com/challenges/dijkstrashortreach/problem
 ![](/Assets/QuestaoDificil1_case0_1.png)
 
 ![](/Assets/QuestaoDificil1_case0_2.png)
-
-![](/Assets/QuestaoDificil1_case1_1.png)

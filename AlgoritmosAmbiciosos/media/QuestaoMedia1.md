@@ -1,6 +1,6 @@
-## Prim's (MST) : Special Subtree
+## Interval Selection
 
-https://www.hackerrank.com/challenges/primsmstsub/problem
+https://www.hackerrank.com/challenges/interval-selection/problem
 
 # Nível da questão: <span style="color: red;">Média</span>
 

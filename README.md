@@ -26,16 +26,12 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
             <td>Médio 01</td>
         </tr>
         <tr>
-            <td><a href="https://www.hackerrank.com/challenges/dijkstrashortreach/problem" target="_blank">Dijkstra: Shortest Reach 2</td>
+            <td><a href="https://www.hackerrank.com/challenges/task-scheduling/problem" target="_blank">Task Scheduling</td>
             <td>Difícil 01</td>
         </tr>
         <tr>
             <td><a href="https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights/problem?isFullScreen=true" target="_blank">Floyd City of Blinding Lights</td>
             <td>Difícil 02</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.hackerrank.com/challenges/minimum-mst-graph/problem?isFullScreen=true" target="_blank">Minimum MST Graph</td>
-            <td>Difícil 03</td>
         </tr>
     </tbody>
 </table>
@@ -117,20 +113,20 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão média HackerRank Special Subtree</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 4: Resultados questão alta HackerRank Task Scheduling</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoMedia1_case0_1.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil1_case0_1" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
 <div align="center">
-  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão média HackerRank Special Subtree</b></p></font>
+  <font size="4"><p style="text-align: center; margin-bottom: 50px;"><b>Figura 5: Resultados questão alta HackerRank Task Scheduling</b></p></font>
 </div>
 
 <div align="center">
-<img src="Assets/QuestaoMedia1_case0_2.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
+<img src="Assets/QuestaoDificil1_case0_2" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
 
